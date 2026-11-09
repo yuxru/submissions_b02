@@ -1,0 +1,247 @@
+{
+    "multiclass": {
+        "model_type": "RandomForestClassifier",
+        "hyperparameters": {
+            "n_estimators": 100,
+            "max_depth": null,
+            "min_samples_split": 2,
+            "min_samples_leaf": 1,
+            "max_features": "sqrt",
+            "bootstrap": true,
+            "criterion": "gini",
+            "random_state": 42
+        },
+        "is_fitted": true,
+        "fitted_attributes": {
+            "n_features_in": 12,
+            "feature_names_in": [
+                "Pre_SpringMean",
+                "Pre_SummerMean",
+                "Pre_FallMean",
+                "Pre_WinterMean",
+                "Tmp_SpringMean",
+                "Tmp_SummerMean",
+                "Tmp_FallMean",
+                "Tmp_WinterMean",
+                "Tswrf_SpringMean",
+                "Tswrf_SummerMean",
+                "Tswrf_FallMean",
+                "Tswrf_WinterMean"
+            ],
+            "n_outputs": 1,
+            "oob_score": null,
+            "classes": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "n_classes": 17
+        },
+        "tree_structure": {
+            "actual_max_depth": 33,
+            "avg_depth": 28.98,
+            "min_depth": 25,
+            "avg_leaf_count": 4768.48,
+            "total_leaves_across_forest": 476848,
+            "avg_node_count": 9535.96
+        },
+        "feature_importances": [
+            0.0641508629066307,
+            0.10419001333419782,
+            0.0721736634416673,
+            0.08283001611486725,
+            0.12470308615288367,
+            0.11233762648275598,
+            0.10706104568174064,
+            0.12061804949839164,
+            0.05707022714369351,
+            0.043639558797744234,
+            0.0467420722253788,
+            0.06448377822004862
+        ]
+    },
+    "bin": {
+        "model_type": "RandomForestClassifier",
+        "hyperparameters": {
+            "n_estimators": 100,
+            "max_depth": null,
+            "min_samples_split": 2,
+            "min_samples_leaf": 1,
+            "max_features": "sqrt",
+            "bootstrap": true,
+            "criterion": "gini",
+            "random_state": 42
+        },
+        "is_fitted": true,
+        "fitted_attributes": {
+            "n_features_in": 12,
+            "feature_names_in": [
+                "Pre_SpringMean",
+                "Pre_SummerMean",
+                "Pre_FallMean",
+                "Pre_WinterMean",
+                "Tmp_SpringMean",
+                "Tmp_SummerMean",
+                "Tmp_FallMean",
+                "Tmp_WinterMean",
+                "Tswrf_SpringMean",
+                "Tswrf_SummerMean",
+                "Tswrf_FallMean",
+                "Tswrf_WinterMean"
+            ],
+            "n_outputs": 1,
+            "oob_score": null,
+            "classes": [
+                false,
+                true
+            ],
+            "n_classes": 2
+        },
+        "tree_structure": {
+            "actual_max_depth": 29,
+            "avg_depth": 21.75,
+            "min_depth": 17,
+            "avg_leaf_count": 439.89,
+            "total_leaves_across_forest": 43989,
+            "avg_node_count": 878.78
+        },
+        "feature_importances": [
+            0.09117700612806068,
+            0.08808357693256336,
+            0.0758840035535063,
+            0.09755517468269964,
+            0.07503844989434624,
+            0.0896622463289191,
+            0.06771262103686518,
+            0.10067227900558477,
+            0.0825522305111662,
+            0.07774804274309965,
+            0.07877259314680876,
+            0.07514177603638018
+        ]
+    },
+    "regression_npp": {
+        "model_type": "RandomForestRegressor",
+        "hyperparameters": {
+            "n_estimators": 100,
+            "max_depth": null,
+            "min_samples_split": 2,
+            "min_samples_leaf": 1,
+            "max_features": 1.0,
+            "bootstrap": true,
+            "criterion": "squared_error",
+            "random_state": 42
+        },
+        "is_fitted": true,
+        "fitted_attributes": {
+            "n_features_in": 12,
+            "feature_names_in": [
+                "Pre_SpringMean",
+                "Pre_SummerMean",
+                "Pre_FallMean",
+                "Pre_WinterMean",
+                "Tmp_SpringMean",
+                "Tmp_SummerMean",
+                "Tmp_FallMean",
+                "Tmp_WinterMean",
+                "Tswrf_SpringMean",
+                "Tswrf_SummerMean",
+                "Tswrf_FallMean",
+                "Tswrf_WinterMean"
+            ],
+            "n_outputs": 1,
+            "oob_score": null
+        },
+        "tree_structure": {
+            "actual_max_depth": 48,
+            "avg_depth": 40.59,
+            "min_depth": 35,
+            "avg_leaf_count": 26599.8,
+            "total_leaves_across_forest": 2659980,
+            "avg_node_count": 53198.6
+        },
+        "feature_importances": [
+            0.0436107916919118,
+            0.5201764272814827,
+            0.022591662777243508,
+            0.1672378710075641,
+            0.014852698274527438,
+            0.09739977967142202,
+            0.03554099694236007,
+            0.06748940253818109,
+            0.005533620117025319,
+            0.008230240608779313,
+            0.007170913612437622,
+            0.010165595477065009
+        ]
+    },
+    "regression_vegC": {
+        "model_type": "RandomForestRegressor",
+        "hyperparameters": {
+            "n_estimators": 100,
+            "max_depth": null,
+            "min_samples_split": 2,
+            "min_samples_leaf": 1,
+            "max_features": 1.0,
+            "bootstrap": true,
+            "criterion": "squared_error",
+            "random_state": 42
+        },
+        "is_fitted": true,
+        "fitted_attributes": {
+            "n_features_in": 12,
+            "feature_names_in": [
+                "Pre_SpringMean",
+                "Pre_SummerMean",
+                "Pre_FallMean",
+                "Pre_WinterMean",
+                "Tmp_SpringMean",
+                "Tmp_SummerMean",
+                "Tmp_FallMean",
+                "Tmp_WinterMean",
+                "Tswrf_SpringMean",
+                "Tswrf_SummerMean",
+                "Tswrf_FallMean",
+                "Tswrf_WinterMean"
+            ],
+            "n_outputs": 1,
+            "oob_score": null
+        },
+        "tree_structure": {
+            "actual_max_depth": 54,
+            "avg_depth": 42.96,
+            "min_depth": 37,
+            "avg_leaf_count": 28096.39,
+            "total_leaves_across_forest": 2809639,
+            "avg_node_count": 56191.78
+        },
+        "feature_importances": [
+            0.024852897040178464,
+            0.2420889459740328,
+            0.026628372900473832,
+            0.5057546511746303,
+            0.0373710147517605,
+            0.08320872805801104,
+            0.0164703490595969,
+            0.017451860596334832,
+            0.012681272958505971,
+            0.012973892566738372,
+            0.011555960617994084,
+            0.008962054301742987
+        ]
+    }
+}

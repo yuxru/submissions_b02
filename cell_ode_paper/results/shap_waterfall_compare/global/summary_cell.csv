@@ -1,0 +1,18 @@
+biome,name,Lon,Lat,P_baseline,top3_baseline,P_exhaustive,top3_exhaustive,soil_in_top10_exhaustive
+1,Boreal decid forest,130.25,51.75,0.87,Tmin_SpringMean +9.0; Tmp_WinterMean +7.3; Tmin_WinterMean +7.1,0.66,Tmin_SpringMean +7.0; Tmin_WinterMean +6.2; Tmp_SpringMean +5.1,0
+2,Boreal ever forest,70.75,67.25,0.64,Tmp_WinterMean +5.1; Tmin_SpringMean +4.9; Tmin_WinterMean +4.6,0.9,Tmin_SpringMean +5.5; Tmax_WinterMean +5.5; Tmp_WinterMean +5.4,0
+3,Temp/boreal mix fo.,-114.75,45.75,0.42,Tmp_WinterMean +3.2; Tmp_SummerMean +2.9; Tmp_SpringMean +2.8,0.66,Tmp_WinterMean +5.5; Tmp_SpringMean +3.8; Tmax_SpringMean +3.8,0
+5,Temp decid forest,-117.75,46.25,0.54,Tmp_WinterMean +6.1; Tmp_SpringMean +4.7; Tmin_WinterMean +4.4,0.84,Tmp_WinterMean +8.5; Tmin_WinterMean +5.3; Tmp_SpringMean +5.1,0
+6,Temp broad ever fo.,-46.25,-22.75,0.95,Tmp_SummerMean +8.6; Tmp_WinterMean +7.3; Pre_WinterMean +5.9,0.81,Pre_WinterMean +6.4; Tmp_WinterMean +5.7; Tmp_SummerMean +5.5,0
+7,Temp mixed forest,-0.75,47.25,0.62,Pre_SummerMean +3.9; Tmax_WinterMean +3.8; Tmp_WinterMean +3.4,0.44,Tmp_WinterMean +3.4; Tswrf_WinterMean +2.9; Tmp_SpringMean +2.7,0
+8,Trop season forest,28.25,-9.75,0.34,Pre_WinterStd +3.9; Pre_WinterMean +2.6; Tmp_WinterMean +2.1,0.72,Pre_WinterMean +5.4; Pre_WinterStd +4.2; Tmax_WinterMean +3.6,3
+9,Trop rain forest,-51.75,-16.75,0.42,Pre_WinterMean +5.3; Tmax_SummerStd +4.3; Pre_SummerMean -3.1,0.73,Pre_WinterMean +8.5; Tmp_WinterStd +4.2; Tmp_WinterMean +3.0,0
+10,Trop decid forest,-46.25,-10.25,0.27,Pre_FallMean +4.0; Tmp_WinterMean +2.0; Pre_WinterStd +1.9,0.64,Pre_FallMean +4.3; Pre_SummerMean +3.9; Pre_WinterMean +2.9,1
+11,Moist savannas,19.75,10.75,0.22,Pre_SummerMean +2.2; Tmax_WinterMean +1.4; Tmp_WinterMean +1.2,0.53,Pre_SummerMean +3.8; Pre_SummerStd +2.9; clay +2.7,2
+12,Dry savannas,-101.25,29.25,0.95,Pre_SummerMean +8.1; Pre_SummerStd +6.1; Pre_WinterStd +4.8,0.69,Pre_SummerStd +6.0; Pre_SummerMean +4.4; Tmp_WinterMean +3.6,0
+13,Tall grassland,69.25,-48.75,0.64,Tmp_SummerMean +5.0; Tmp_SpringMean +4.3; Tmax_SummerMean +4.2,0.81,Tmp_WinterMean +5.6; Tmax_WinterMean +4.4; Tmax_SpringMean +4.2,0
+14,Dry grassland,120.75,-20.75,0.68,Pre_WinterMean +5.1; Pre_FallMean +4.0; Tmp_SpringMean +3.8,0.22,Pre_WinterMean +3.4; silt -3.4; sand -3.4,3
+15,Xeric wood/shrub,15.75,-16.75,0.67,Pre_FallMean +4.8; Pre_WinterMean +4.8; Pre_SummerMean +4.7,0.42,Pre_SummerMean +3.5; Pre_WinterMean +2.9; Pre_FallStd +2.8,0
+16,Arid shrub/steppe,20.75,-28.75,0.43,Pre_WinterStd +3.6; Tmp_SpringMean +2.7; Pre_FallMean +2.6,0.97,Pre_SummerMean +7.1; Pre_WinterMean +4.8; Tmax_WinterMean +4.5,1
+17,Desert,97.75,72.25,0.2,Tmp_SummerMean +3.0; Tmin_SummerMean +2.8; Tmax_SpringStd -2.4,0.83,orgC +6.8; Tmin_SummerMean +6.3; clay +5.8,2
+18,Arctic/alpine tundra,77.75,66.25,0.1,Tmin_FallMean -5.4; Tmp_SummerMean +3.5; Tmin_SummerMean +3.3,0.86,Tmp_SpringMean +6.8; Tmax_WinterMean +6.6; Tmin_SummerMean +6.5,2

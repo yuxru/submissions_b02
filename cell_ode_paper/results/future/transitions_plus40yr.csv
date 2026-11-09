@@ -1,0 +1,180 @@
+region,from,to,cells
+global,18 Arctic/alpine tundra,2 Boreal ever forest,1494
+global,17 Desert,18 Arctic/alpine tundra,1175
+global,2 Boreal ever forest,5 Temp decid forest,1030
+global,18 Arctic/alpine tundra,1 Boreal decid forest,496
+global,1 Boreal decid forest,2 Boreal ever forest,450
+global,3 Temp/boreal mix fo.,5 Temp decid forest,418
+global,8 Trop season forest,9 Trop rain forest,386
+global,17 Desert,2 Boreal ever forest,380
+global,15 Xeric wood/shrub,12 Dry savannas,359
+global,18 Arctic/alpine tundra,17 Desert,352
+global,5 Temp decid forest,6 Temp broad ever fo.,328
+global,16 Arid shrub/steppe,14 Dry grassland,319
+global,2 Boreal ever forest,15 Xeric wood/shrub,309
+global,14 Dry grassland,16 Arid shrub/steppe,270
+global,9 Trop rain forest,8 Trop season forest,234
+global,2 Boreal ever forest,3 Temp/boreal mix fo.,232
+global,8 Trop season forest,10 Trop decid forest,205
+global,13 Tall grassland,2 Boreal ever forest,195
+global,12 Dry savannas,16 Arid shrub/steppe,187
+global,10 Trop decid forest,8 Trop season forest,180
+global,14 Dry grassland,2 Boreal ever forest,172
+global,6 Temp broad ever fo.,9 Trop rain forest,151
+global,1 Boreal decid forest,18 Arctic/alpine tundra,150
+global,17 Desert,14 Dry grassland,125
+global,16 Arid shrub/steppe,17 Desert,119
+global,16 Arid shrub/steppe,12 Dry savannas,113
+global,15 Xeric wood/shrub,10 Trop decid forest,103
+global,12 Dry savannas,15 Xeric wood/shrub,99
+global,5 Temp decid forest,15 Xeric wood/shrub,98
+global,14 Dry grassland,17 Desert,96
+global,6 Temp broad ever fo.,8 Trop season forest,91
+global,6 Temp broad ever fo.,15 Xeric wood/shrub,78
+global,12 Dry savannas,11 Moist savannas,73
+global,14 Dry grassland,12 Dry savannas,68
+global,7 Temp mixed forest,6 Temp broad ever fo.,67
+global,11 Moist savannas,12 Dry savannas,65
+global,11 Moist savannas,15 Xeric wood/shrub,64
+global,2 Boreal ever forest,18 Arctic/alpine tundra,56
+global,15 Xeric wood/shrub,11 Moist savannas,53
+global,5 Temp decid forest,3 Temp/boreal mix fo.,52
+global,15 Xeric wood/shrub,5 Temp decid forest,50
+global,12 Dry savannas,14 Dry grassland,49
+global,11 Moist savannas,10 Trop decid forest,47
+global,17 Desert,16 Arid shrub/steppe,44
+global,3 Temp/boreal mix fo.,6 Temp broad ever fo.,35
+global,10 Trop decid forest,15 Xeric wood/shrub,35
+global,18 Arctic/alpine tundra,13 Tall grassland,34
+global,11 Moist savannas,8 Trop season forest,34
+global,2 Boreal ever forest,14 Dry grassland,30
+global,3 Temp/boreal mix fo.,2 Boreal ever forest,30
+global,15 Xeric wood/shrub,8 Trop season forest,29
+global,10 Trop decid forest,11 Moist savannas,27
+global,13 Tall grassland,14 Dry grassland,26
+global,15 Xeric wood/shrub,6 Temp broad ever fo.,24
+global,1 Boreal decid forest,13 Tall grassland,22
+global,8 Trop season forest,15 Xeric wood/shrub,19
+global,15 Xeric wood/shrub,16 Arid shrub/steppe,18
+global,7 Temp mixed forest,9 Trop rain forest,18
+global,8 Trop season forest,11 Moist savannas,16
+global,15 Xeric wood/shrub,9 Trop rain forest,15
+global,12 Dry savannas,10 Trop decid forest,15
+global,5 Temp decid forest,12 Dry savannas,14
+global,2 Boreal ever forest,16 Arid shrub/steppe,14
+global,13 Tall grassland,5 Temp decid forest,14
+global,14 Dry grassland,1 Boreal decid forest,13
+global,14 Dry grassland,13 Tall grassland,13
+global,14 Dry grassland,15 Xeric wood/shrub,13
+global,16 Arid shrub/steppe,15 Xeric wood/shrub,12
+global,16 Arid shrub/steppe,2 Boreal ever forest,12
+global,8 Trop season forest,6 Temp broad ever fo.,11
+global,2 Boreal ever forest,12 Dry savannas,11
+global,7 Temp mixed forest,8 Trop season forest,11
+global,2 Boreal ever forest,17 Desert,11
+global,5 Temp decid forest,2 Boreal ever forest,11
+global,11 Moist savannas,5 Temp decid forest,10
+global,8 Trop season forest,12 Dry savannas,10
+global,5 Temp decid forest,7 Temp mixed forest,9
+global,2 Boreal ever forest,6 Temp broad ever fo.,9
+global,7 Temp mixed forest,5 Temp decid forest,9
+global,11 Moist savannas,9 Trop rain forest,9
+global,9 Trop rain forest,6 Temp broad ever fo.,7
+global,12 Dry savannas,8 Trop season forest,7
+global,13 Tall grassland,11 Moist savannas,7
+global,10 Trop decid forest,9 Trop rain forest,7
+global,6 Temp broad ever fo.,5 Temp decid forest,7
+global,18 Arctic/alpine tundra,3 Temp/boreal mix fo.,6
+global,13 Tall grassland,17 Desert,6
+global,17 Desert,5 Temp decid forest,6
+global,13 Tall grassland,1 Boreal decid forest,5
+global,1 Boreal decid forest,17 Desert,5
+global,2 Boreal ever forest,13 Tall grassland,5
+global,9 Trop rain forest,10 Trop decid forest,5
+global,15 Xeric wood/shrub,2 Boreal ever forest,5
+global,11 Moist savannas,14 Dry grassland,5
+global,17 Desert,13 Tall grassland,5
+global,11 Moist savannas,6 Temp broad ever fo.,4
+global,14 Dry grassland,5 Temp decid forest,4
+global,2 Boreal ever forest,1 Boreal decid forest,4
+global,13 Tall grassland,15 Xeric wood/shrub,4
+global,18 Arctic/alpine tundra,14 Dry grassland,4
+global,2 Boreal ever forest,11 Moist savannas,3
+global,11 Moist savannas,2 Boreal ever forest,3
+global,6 Temp broad ever fo.,11 Moist savannas,3
+global,17 Desert,1 Boreal decid forest,2
+global,17 Desert,15 Xeric wood/shrub,2
+global,10 Trop decid forest,12 Dry savannas,2
+global,3 Temp/boreal mix fo.,15 Xeric wood/shrub,2
+global,6 Temp broad ever fo.,10 Trop decid forest,2
+global,11 Moist savannas,3 Temp/boreal mix fo.,2
+global,5 Temp decid forest,11 Moist savannas,2
+global,5 Temp decid forest,14 Dry grassland,2
+global,5 Temp decid forest,16 Arid shrub/steppe,2
+global,7 Temp mixed forest,3 Temp/boreal mix fo.,2
+global,14 Dry grassland,3 Temp/boreal mix fo.,1
+global,13 Tall grassland,3 Temp/boreal mix fo.,1
+global,13 Tall grassland,6 Temp broad ever fo.,1
+global,18 Arctic/alpine tundra,11 Moist savannas,1
+global,18 Arctic/alpine tundra,5 Temp decid forest,1
+global,13 Tall grassland,12 Dry savannas,1
+global,1 Boreal decid forest,14 Dry grassland,1
+global,6 Temp broad ever fo.,12 Dry savannas,1
+global,7 Temp mixed forest,15 Xeric wood/shrub,1
+global,14 Dry grassland,6 Temp broad ever fo.,1
+global,9 Trop rain forest,11 Moist savannas,1
+global,15 Xeric wood/shrub,14 Dry grassland,1
+global,17 Desert,12 Dry savannas,1
+global,14 Dry grassland,10 Trop decid forest,1
+global,14 Dry grassland,11 Moist savannas,1
+global,12 Dry savannas,5 Temp decid forest,1
+global,7 Temp mixed forest,10 Trop decid forest,1
+global,3 Temp/boreal mix fo.,7 Temp mixed forest,1
+global,3 Temp/boreal mix fo.,12 Dry savannas,1
+global,6 Temp broad ever fo.,2 Boreal ever forest,1
+India,8 Trop season forest,10 Trop decid forest,47
+India,15 Xeric wood/shrub,12 Dry savannas,22
+India,15 Xeric wood/shrub,11 Moist savannas,17
+India,11 Moist savannas,15 Xeric wood/shrub,17
+India,6 Temp broad ever fo.,9 Trop rain forest,16
+India,10 Trop decid forest,11 Moist savannas,15
+India,11 Moist savannas,12 Dry savannas,14
+India,11 Moist savannas,10 Trop decid forest,11
+India,12 Dry savannas,15 Xeric wood/shrub,10
+India,15 Xeric wood/shrub,10 Trop decid forest,8
+India,10 Trop decid forest,15 Xeric wood/shrub,8
+India,8 Trop season forest,9 Trop rain forest,6
+India,6 Temp broad ever fo.,8 Trop season forest,5
+India,12 Dry savannas,16 Arid shrub/steppe,5
+India,8 Trop season forest,15 Xeric wood/shrub,5
+India,9 Trop rain forest,8 Trop season forest,5
+India,12 Dry savannas,10 Trop decid forest,4
+India,14 Dry grassland,17 Desert,4
+India,16 Arid shrub/steppe,12 Dry savannas,4
+India,2 Boreal ever forest,5 Temp decid forest,4
+India,5 Temp decid forest,6 Temp broad ever fo.,3
+India,14 Dry grassland,16 Arid shrub/steppe,3
+India,10 Trop decid forest,8 Trop season forest,3
+India,9 Trop rain forest,10 Trop decid forest,3
+India,6 Temp broad ever fo.,15 Xeric wood/shrub,2
+India,14 Dry grassland,12 Dry savannas,2
+India,13 Tall grassland,2 Boreal ever forest,2
+India,5 Temp decid forest,2 Boreal ever forest,2
+India,10 Trop decid forest,9 Trop rain forest,2
+India,7 Temp mixed forest,9 Trop rain forest,2
+India,11 Moist savannas,8 Trop season forest,2
+India,16 Arid shrub/steppe,14 Dry grassland,2
+India,10 Trop decid forest,12 Dry savannas,2
+India,15 Xeric wood/shrub,6 Temp broad ever fo.,1
+India,3 Temp/boreal mix fo.,5 Temp decid forest,1
+India,2 Boreal ever forest,17 Desert,1
+India,15 Xeric wood/shrub,9 Trop rain forest,1
+India,3 Temp/boreal mix fo.,2 Boreal ever forest,1
+India,13 Tall grassland,11 Moist savannas,1
+India,14 Dry grassland,13 Tall grassland,1
+India,6 Temp broad ever fo.,5 Temp decid forest,1
+India,6 Temp broad ever fo.,11 Moist savannas,1
+India,12 Dry savannas,14 Dry grassland,1
+India,7 Temp mixed forest,6 Temp broad ever fo.,1
+India,2 Boreal ever forest,14 Dry grassland,1
+India,17 Desert,2 Boreal ever forest,1

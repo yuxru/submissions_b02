@@ -1,0 +1,119 @@
+{
+    "1 Boreal decid forest": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+    },
+    "2 Boreal ever forest": {
+        "precision": 0.6086956521739131,
+        "recall": 0.7,
+        "f1-score": 0.6511627906976745,
+        "support": 20.0
+    },
+    "3 Temp/boreal mix fo.": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 2.0
+    },
+    "5 Temp decid forest": {
+        "precision": 0.7857142857142857,
+        "recall": 0.55,
+        "f1-score": 0.6470588235294118,
+        "support": 20.0
+    },
+    "6 Temp broad ever fo.": {
+        "precision": 0.8529411764705882,
+        "recall": 0.8656716417910447,
+        "f1-score": 0.8592592592592593,
+        "support": 67.0
+    },
+    "7 Temp mixed forest": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 3.0
+    },
+    "8 Trop season forest": {
+        "precision": 0.3393665158371041,
+        "recall": 0.7142857142857143,
+        "f1-score": 0.4601226993865031,
+        "support": 105.0
+    },
+    "9 Trop rain forest": {
+        "precision": 0.6833333333333333,
+        "recall": 0.9111111111111111,
+        "f1-score": 0.780952380952381,
+        "support": 45.0
+    },
+    "10 Trop decid forest": {
+        "precision": 0.23809523809523808,
+        "recall": 0.027777777777777776,
+        "f1-score": 0.04975124378109453,
+        "support": 180.0
+    },
+    "11 Moist savannas": {
+        "precision": 1.0,
+        "recall": 0.06691449814126393,
+        "f1-score": 0.1254355400696864,
+        "support": 269.0
+    },
+    "12 Dry savannas": {
+        "precision": 0.5023474178403756,
+        "recall": 0.6645962732919255,
+        "f1-score": 0.5721925133689839,
+        "support": 161.0
+    },
+    "13 Tall grassland": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+    },
+    "14 Dry grassland": {
+        "precision": 0.6363636363636364,
+        "recall": 0.5384615384615384,
+        "f1-score": 0.5833333333333334,
+        "support": 39.0
+    },
+    "15 Xeric wood/shrub": {
+        "precision": 0.22085889570552147,
+        "recall": 0.6050420168067226,
+        "f1-score": 0.3235955056179775,
+        "support": 119.0
+    },
+    "16 Arid shrub/steppe": {
+        "precision": 0.6601941747572816,
+        "recall": 0.918918918918919,
+        "f1-score": 0.768361581920904,
+        "support": 74.0
+    },
+    "17 Desert": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0
+    },
+    "18 Arctic/alpine tundra": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+    },
+    "accuracy": 0.44064748201438847,
+    "macro avg": {
+        "precision": 0.3839947250759575,
+        "recall": 0.3860458523874128,
+        "f1-score": 0.3424250395245418,
+        "support": 1112.0
+    },
+    "weighted avg": {
+        "precision": 0.5792343329251892,
+        "recall": 0.44064748201438847,
+        "f1-score": 0.3776326837012476,
+        "support": 1112.0
+    },
+    "regression_mse": 0.013766994944424462,
+    "regression_VegC_mse": 4.567439339203687
+}
